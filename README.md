@@ -1,9 +1,4 @@
-### Hi there coders I am SHWETA RANI 👋
-🌱 I’m currently learning c++,java,python.
 
- 💬 Ask me about clanguage,sql.
- 
- 📫 How to reach me: shwetar257@gmail.com
  <h1 align="center">Hi 👋, I'm SHWETA RANI</h1>
 <h3 align="center">A passionate coder</h3>
 

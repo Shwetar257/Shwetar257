@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C++,Python,Java**
 
-- 💬 Ask me about **C Language,SQL**
+- 💬 Ask me about **C Language,SQL,HTML**
 
 - 📫 How to reach me **shwetar257@gmail.com**
 

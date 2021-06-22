@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetar257&label=Profile%20views&color=0e75b6&style=flat" alt="shwetar257" /> </p>
 
-- Currently pursuing M.C.A from K.I.E.T Group of Institions.
+- Currently pursuing M.C.A from K.I.E.T Group of Institutions.
 
 - 🌱 I’m currently learning **C++,Python,Java,Data Structure**
 

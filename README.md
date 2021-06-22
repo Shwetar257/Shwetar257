@@ -6,7 +6,7 @@
 
 - Currently pursuing M.C.A from K.I.E.T Group of Institions.
 
-- 🌱 I’m currently learning **C++,Python,Java**
+- 🌱 I’m currently learning **C++,Python,Java,Data Structure**
 
 - 💬 Ask me about **C Language,SQL,HTML**
 
